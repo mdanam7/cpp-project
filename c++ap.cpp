@@ -1,8 +1,8 @@
 #include<iostream>
 using namespace std;
 int main(){
-    cout <<"love "<<"\n";
-    cout <<"me"<<"\n";
+    cout <<"fuck "<<"\n";
+    cout <<"you"<<"\n";
     int age=21;
     char grade='A';
     float cgpa=3.02f;
